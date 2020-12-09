@@ -1,3 +1,10 @@
+## Identifying Information: 
+1. Name: Jo Kaufman
+2. Student ID: 2364778
+3. Email: jkaufman@chapman.edu
+4. Class: CPSC-298-02
+5. Assignment: cars 
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
