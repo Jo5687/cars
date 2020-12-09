@@ -3,7 +3,7 @@
 2. Student ID: 2364778
 3. Email: jkaufman@chapman.edu
 4. Class: CPSC-298-02
-5. Assignment: numbers 
+5. Assignment: cars 
 
 # Application Purpose
 
